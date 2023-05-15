@@ -1,0 +1,54 @@
+{
+  "filmai": [
+    {
+      "id": 0,
+      "title": "Leon professional",
+      "description": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+      "year": "1994",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZaSXf9pf83zskFWAqvaICNOxwld9tWJUXYVbsjb0w4lhekjx"
+    },
+    {
+      "id": 1,
+      "title": "The Green Mile",
+      "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+      "year": "1999",
+      "picture": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Aliens",
+      "description": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring. ",
+      "year": "1986",
+      "picture": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Meet Joe Black",
+      "description": "Death, who takes the form of a young man killed in an accident, asks a media mogul to act as his guide to teach him about life on Earth and, in the process, he falls in love with the mogul's daughter.  ",
+      "year": "1998",
+      "picture": "https://m.media-amazon.com/images/I/91PKlXE6LML._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Edward Scissorhands",
+      "description": "The solitary life of an artificial man - who was incompletely constructed and has scissors for hands - is upended when he is taken in by a suburban family. ",
+      "year": "1990",
+      "picture": "https://lumiere-a.akamaihd.net/v1/images/esh25_584x800_022aaeef.jpeg?region=0%2C0%2C584%2C800"
+    },
+    
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "year": "1994",
+      "picture": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userMail": "mintas@inbox.lt",
+      "password": "admin"
+    }
+  ]
+}
